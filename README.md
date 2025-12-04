@@ -2,8 +2,6 @@
 
 ### A passionate Java Backend Developer focused on scalable systems
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MateAndGit" alt="MateAndGit" /></a> </p>
-
 - 🌱 I'm currently learning **TDD, System Design, or Advanced Docker/Kubernetes**
 
 - 📫 How to reach me **jonghwayoo3@gmail.com**
